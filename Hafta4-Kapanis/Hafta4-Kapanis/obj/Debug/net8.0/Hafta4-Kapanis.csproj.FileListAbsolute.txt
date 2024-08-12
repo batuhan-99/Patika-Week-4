@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\bin\Debug\net8.0\Hafta4-Kapanis.exe
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\bin\Debug\net8.0\Hafta4-Kapanis.deps.json
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\bin\Debug\net8.0\Hafta4-Kapanis.runtimeconfig.json
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\bin\Debug\net8.0\Hafta4-Kapanis.dll
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\bin\Debug\net8.0\Hafta4-Kapanis.pdb
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.AssemblyInfo.cs
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.dll
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\refint\Hafta4-Kapanis.dll
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.pdb
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\Hafta4-Kapanis.genruntimeconfig.cache
+C:\Users\asus\Desktop\Hafta4-Kapanis\Hafta4-Kapanis\obj\Debug\net8.0\ref\Hafta4-Kapanis.dll
